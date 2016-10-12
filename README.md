@@ -1,6 +1,7 @@
-# cinema
+NodeJS Express+ mongoDB + Jquery + Bootstrap + Jade + grunt + bower
 =================
-a film sharing website
+# cinema
+a film sharing website made by node + mongoDb
 
 installation
 -----------------
