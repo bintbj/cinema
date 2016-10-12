@@ -5,8 +5,12 @@ a film sharing website made by node + mongoDb
 
 installation
 -----------------
-run:
+`run:`
 ```javascript
+git clone https://github.com/tangbinqq123/cinema
+
+cd cinema
+
 npm install
 
 grunt
