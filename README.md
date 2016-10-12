@@ -5,6 +5,7 @@ a film sharing website made by node + mongoDb
 
 installation
 -----------------
+run:
 ```javascript
 npm install
 
